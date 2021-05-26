@@ -1,0 +1,16 @@
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Desktop\Bootcamps\LOCALIZA\4 - Cadastro de Seriees\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
