@@ -15,9 +15,11 @@ Bootcamp da empresa LocalizaLabs (laboratório de tecnologia e inovação da [Lo
 - [MongoDB](https://www.mongodb.com/cloud/atlas).
 
 ## 📚 Atividades do Bootcamp
-- [Solução de Problemas em C#]()
-- [Uma aplicação de transferências bancárias com .NET(Console)]()
-- [APP simples de cadastro de séries em .NET(Console)]()
+- [Solução de Problemas em C#](https://github.com/MarcGabr/Bootcamp_Localiza-/tree/main/Desafios%20de%20Logica)
+- [Uma aplicação de transferências bancárias com .NET(Console)](https://github.com/MarcGabr/Bootcamp_Localiza-/tree/main/Transferencia%20Bancaria)
+- [APP simples de cadastro de séries em .NET(Console)](https://github.com/MarcGabr/Bootcamp_Localiza-/tree/main/Cadastro%20de%20Series)
+- [Api Vaquinha](https://github.com/MarcGabr/Bootcamp_Localiza-/tree/main/Vaquinha%20Tests)
+- [Api Covid](https://github.com/MarcGabr/Bootcamp_Localiza-/tree/main/Api%20%2B%20Mongo)
 
 
 ## Author
