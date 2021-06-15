@@ -1,4 +1,4 @@
-## <h1 align="center"> Aplicação API .Net Core para Depositos de Campanhas </h1>
+## <h1 align="center"> Aplicação API .Net Core para registro de Covid </h1>
 
 ## 💻 Descrição Aplicação
 
