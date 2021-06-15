@@ -1,0 +1,26 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+public class Program
+{
+	public static void Main()
+	{
+        int suavariavel = int.Parse(Console.ReadLine());
+       	int dois = 0, tres = 0, quatro = 0 , cinco = 0; 
+        string[] n = Console.ReadLine().Split();
+      //continue a solução
+            for ( int i = 0; i<suavariavel; i++)
+            {
+    			if (Convert.ToInt32(n[i]) % 2 == 0) dois +=1;
+				if (Convert.ToInt32(n[i]) % 3 == 0) tres +=1;
+				if (Convert.ToInt32(n[i]) % 4 == 0) quatro +=1;
+				if (Convert.ToInt32(n[i]) % 5 == 0) cinco +=1;
+            }
+            Console.WriteLine("{0} Multiplo(s) de 2", dois);
+            Console.WriteLine("{0} Multiplo(s) de 3", tres);
+            Console.WriteLine("{0} Multiplo(s) de 4",  quatro);
+            Console.WriteLine("{0} Multiplo(s) de 5",  cinco);
+		
+	}
+}
